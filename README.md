@@ -88,5 +88,5 @@ This repo contains the Mobile App developed as part of Dorset Mobile Application
  - [x] RecyclerView NotifyItemChanged
 
 ## Week 10: Revisit Recycler Views, Shared Preferences
-- Test
+
 - [x] Shared Preferences"# HelloWorldApplicationKotlin" 
